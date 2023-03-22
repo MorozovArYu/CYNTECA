@@ -1,4 +1,4 @@
-# CYNTEKA
+# SimilarStringMatcher
 
 Консольное приложение на Java, которое читает из файла input.txt входные данные:
   n - число
